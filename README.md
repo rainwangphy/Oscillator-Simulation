@@ -1,2 +1,2 @@
 # Oscillator-Simulation
-A coupled oscillator simulation in Matlab
+A coupled mass oscillator simulation in Matlab
